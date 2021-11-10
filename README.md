@@ -3,7 +3,7 @@
 - I’m currently pursuing a Masters of Science of Business Analytics (STEM) at the Simon Business School (University of Rochester)
 - My previous internship experience is in the Energy and Ecommerce industries. 
 - I have a B.S. in Economics from Penn State University 
-- Familiarity with R, SQL, STATA, Power BI, Tableua, Python, and Excel. 
+- Familiarity with R, SQL, STATA, Power BI, Tableau, Python, and Excel. 
 
 <!---
 kmd6225/kmd6225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
